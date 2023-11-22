@@ -1,3 +1,7 @@
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-brahmbhatt) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/rahulbrahmbhatt)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahulbrahmbhatt18)
+
 # Hi there! 👋 I'm Rahul Brahmbhatt
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer based in the vibrant city of New York. With over 2 years of hands-on experience, I thrive on building robust and scalable software solutions. My tech stack includes Java, Python, React, Angular, Node, and more.
@@ -23,11 +27,9 @@ I am passionate about staying updated with the latest trends in technology. I ha
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbrahmbhatt18&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahulbrahmbhatt18)
-
 ## 📫 Let's Connect!
 
-I'm always open to new collaborations and discussions. If you have a project, idea, or just want to chat, feel free to reach out to me on [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-brahmbhatt) or [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/rahulbrahmbhatt)
+I'm always open to new collaborations and discussions. If you have a project, idea, or just want to chat, feel free to reach out to me on rahulrb1811@gmail.com
 
 Thanks for stopping by! ✨
 
